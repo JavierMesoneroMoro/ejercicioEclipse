@@ -3,7 +3,8 @@ package proyectoGitHub;
 public class prueba {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hola buenas tardes");
+		System.out.println("Muy bien");
 
 	}
 
